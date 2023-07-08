@@ -1,13 +1,10 @@
 # GRBio Retreat (2023) 
-<img align = "right" src="http://www.biometricsociety.net/wp-content/uploads/grbio-300x185.png" width = "10%"> 
-
-<br>
 
 This repository contains all the material of the sessions of the RETREAT 2023 of the [GRBIO](https://grbio.upc.edu/en) research group. 
 
 - You can find the program in the [following link](https://github.com/GRBio/RETREAT2023/blob/main/Programa%20RETREAT%202023.pdf)
 
-- A direct link to the repository web page: [https://grbio.github.io/RETREAT2023/])(https://grbio.github.io/RETREAT2023/)
+- A direct link to the repository web page: [https://grbio.github.io/RETREAT2023/](https://grbio.github.io/RETREAT2023/)
 
 - The folders with the different presentations of the sessions can be found here:
 
