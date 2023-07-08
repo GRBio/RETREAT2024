@@ -6,5 +6,6 @@ This repository contains all the material of the sessions of the RETREAT 2023 of
 
 The folders with the different presentations of the sessions can be found here:
 
+- [Common biases](https://github.com/GRBio/RETREAT2023/tree/main/Common%20biases)
 - [Ethics](https://github.com/GRBio/RETREAT2023/tree/main/Etichs)
 - [Data Privacy](https://github.com/GRBio/RETREAT2023/tree/main/Data%20Privacy)
