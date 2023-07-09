@@ -1,6 +1,6 @@
 # GRBio Retreat (2023) 
 
-The repository contains all the material of the RETREAT 2023 of the [GRBIO](https://grbio.upc.edu/en) research group. 
+This repository contains all the material of the RETREAT 2023 of the [GRBIO](https://grbio.upc.edu/en) research group. 
 
 - You can find the program in the [following link](https://github.com/GRBio/RETREAT2023/blob/main/Programa%20RETREAT%202023.pdf)
 
