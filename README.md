@@ -9,10 +9,10 @@ This repository contains all the material of the RETREAT 2023 of the [GRBIO](htt
 - The folders with the different presentations of the sessions can be found here:
 
   - [Presentation of the RETREAT](https://github.com/GRBio/RETREAT2023/tree/main/Presentation) by Organizers of GRBIO group.
-  - [Common biases](https://github.com/GRBio/RETREAT2023/tree/main/Common%20biases) by **Cristian Tebé**
-  - [Synthetic data](https://github.com/GRBio/RETREAT2023/tree/main/Synthetic%20data) by **Cecilio Angulo**
+  - [Common biases](https://github.com/GRBio/RETREAT2023/tree/main/Common_biases) by **Cristian Tebé**
+  - [Synthetic data](https://github.com/GRBio/RETREAT2023/tree/main/Synthetic_data) by **Cecilio Angulo**
   - [Github for Data Sharing and Data Science](Github_for_Data/Github_for_Data_and_Data_Science.pdf) by **Àlex Sánchez**
-  - [Data Repositories](https://github.com/GRBio/RETREAT2023/tree/main/Data%20repositories) by **Dani Fernández**
+  - [Data Repositories](https://github.com/GRBio/RETREAT2023/tree/main/Data_repositories) by **Dani Fernández**
   - [Simulation](https://github.com/GRBio/RETREAT2023/tree/main/Simulation) by **Jordi Ocaña**
   - [Ethics](https://github.com/GRBio/RETREAT2023/tree/main/Etichs) by **Lupe Gómez**
-  - [Data Privacy](https://github.com/GRBio/RETREAT2023/tree/main/Data%20Privacy) by **Jordi Cortés**
+  - [Data Privacy](https://github.com/GRBio/RETREAT2023/tree/main/Data_Privacy) by **Jordi Cortés**
