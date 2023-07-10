@@ -10,7 +10,7 @@ The repository contains all the material of the RETREAT 2023 of the [GRBIO](http
 
   - [Presentation of the RETREAT](https://grbio.github.io/RETREAT2023/Presentation/RETREAT%20GRBIO.pdf) by Organizers of GRBIO group.
   - [Common biases](https://github.com/GRBio/RETREAT2023/tree/main/Common_biases) by **Cristian Tebé**
-  - [Synthetic data](https://github.com/GRBio/RETREAT2023/tree/main/Synthetic_data) by **Cecilio Angulo**
+  - [Synthetic data](Synthetic_data/Xerrada%20GRBIO.pdf) by **Cecilio Angulo**
   - [Github for Data Sharing and Data Science](Github_for_Data/Github_for_Data_and_Data_Science.pdf) by **Àlex Sánchez**
   - [Data Repositories](Data_repositories/Repositoris%20de%20dades.pdf) by **Dani Fernández**
   - [Simulation](https://github.com/GRBio/RETREAT2023/tree/main/Simulation) by **Jordi Ocaña**
