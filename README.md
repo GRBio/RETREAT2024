@@ -9,3 +9,5 @@ The repository contains all the material of the RETREAT 2023 of the [GRBIO](http
 - The folders with the different presentations of the sessions can be found here:
 
 Posar el nome de les presentacions els ponents i el link a la pagina github
+
+web
