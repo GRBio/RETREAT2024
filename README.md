@@ -8,7 +8,9 @@ The repository contains all the material of the RETREAT 2024 of the [GRBIO](http
 
 The folders with the different presentations of the sessions can be found here:
 
-1.  [Kick off](https://github.com/NachoPerezBlasco/RETREAT2024/tree/main/01_Kick_off)
+1.  Kick off
+
+  1.  [GRBIO presentation](01_Kick_off/RETREAT_PRESENTATION_Lupe_Gomez.pdf)
 
 2.  [Doctorandes](https://github.com/NachoPerezBlasco/RETREAT2024/tree/main/02_Doctorandes)
 
