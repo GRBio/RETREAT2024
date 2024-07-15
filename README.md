@@ -2,9 +2,9 @@
 
 The repository contains all the material of the RETREAT 2024 of the [GRBIO](https://grbio.upc.edu/en) research group.
 
--   You can find the program: [HERE](https://github.com/NachoPerezBlasco/RETREAT2024/blob/main/Programa%20IX%20GRBIO%20RETREAT%202024.pdf)
+-   You can find the program: [HERE](Programa IX GRBIO RETREAT 2024.pdf)
 
--   A direct link to the repository web page: [HERE](https://nachoperezblasco.github.io/RETREAT2024/)
+-   A direct link to the repository web page: [HERE](https://GRBio.github.io/RETREAT2024/)
 
 The folders with the different presentations of the sessions can be found here:
 
