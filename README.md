@@ -1,6 +1,6 @@
 # GRBio Retreat (2024)
 
-The repository contains all the material of the RETREAT 2023 of the [GRBIO](https://grbio.upc.edu/en) research group.
+The repository contains all the material of the RETREAT 2024 of the [GRBIO](https://grbio.upc.edu/en) research group.
 
 -   You can find the program: [HERE](https://github.com/NachoPerezBlasco/RETREAT2024/blob/main/Programa%20IX%20GRBIO%20RETREAT%202024.pdf)
 
@@ -23,3 +23,8 @@ The folders with the different presentations of the sessions can be found here:
 7.  [GRBIO_DIVULGA](https://github.com/NachoPerezBlasco/RETREAT2024/tree/main/08_GRBIO_DIVULGA)
 
 8.  [Seminari convidat MDS](https://github.com/NachoPerezBlasco/RETREAT2024/tree/main/09_seminari_convidat_MDS)
+
+
+------------------------------------------------------------------------
+
+El material d'algunes de les ponències no està disponible per drets d'autor. Si esteu interessats posseu-vos directament en contacte amb els autors.
