@@ -4,7 +4,7 @@ The repository contains all the material of the RETREAT 2024 of the [GRBIO](http
 
 -   You can find the program: [HERE](Programa IX GRBIO RETREAT 2024.pdf)
 
--   A direct link to the repository web page: [HERE](https://GRBio.github.io/RETREAT2024/)
+-   A direct link to the repository web page: [HERE](https://github.com/GRBio/RETREAT2024)
 
 The folders with the different presentations of the sessions can be found here:
 
@@ -25,7 +25,7 @@ The folders with the different presentations of the sessions can be found here:
 
 3.  **Taller 1**
 
--   [Machine Learning Survival (Jordi Cortés)](03_Taller_ML_survival)
+-   [Machine Learning Survival (Jordi Cortés)](https://github.com/GRBio/RETREAT2024/tree/main/03_Taller_ML_survival)
 
 4.  **Recerca Viva 1**
 
