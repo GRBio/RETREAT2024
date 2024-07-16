@@ -34,14 +34,14 @@ Sessió 1: **Kick-off**
 -   [GRBIO Divulga (Conxita Arenas)](01_Kick_off/GRBIO_Divulga_Conxita_Arenas.pdf)
 -   [Seminaris (Ferran Reverter)](01_Kick_off/Seminaris_Ferran_Reverter.pdf)
 -   [Twitter i News (Daniel Fernández)](01_Kick_off/TwittterNews24_Dani_Fernandez.pdf)
--   [Web i Servidors(Jordi Cortés)](01_Kick_off/Web_servidors_Jordi_Cortes.pdf)
+-   [Web i Servidors (Jordi Cortés)](01_Kick_off/Web_servidors_Jordi_Cortes.pdf)
 -   [Xartec (Núria Pérez)](01_Kick_off/Xartec_NPerez.pdf)
 
 Sessió 2: **Doctorandes**
 
--   [Matilde Francisco](02_Doctorandes/Statistical_methodologies_gof_MatildeF.pdf)
--   [Pavla Krotká](02_Doctorandes/StatisticalMethodsForPlatformTrialsWithNCC_Pavla_Krotka.pdf)
--   [Andrea Toloba](02_Doctorandes/Interval_censored_covariates_Andrea_toloba.pdf)
+-   [Statistical methodologies for goodness-of-fit: a comparative analysis of three established approaches (Matilde Francisco)](02_Doctorandes/Statistical_methodologies_gof_MatildeF.pdf)
+-   [Statistical Methods for Innovative Platform Trial Designs Incorporating Non-concurrent Controls (Pavla Krotká)](02_Doctorandes/StatisticalMethodsForPlatformTrialsWithNCC_Pavla_Krotka.pdf)
+-   [Model fitting and goodness-of-fit for generalized linear models when covariates are interval-censored (Andrea Toloba)](02_Doctorandes/Interval_censored_covariates_Andrea_toloba.pdf)
 
 Sessió 3: **Taller 1**
 
@@ -51,16 +51,20 @@ Sessió 4: **Recerca Viva 1**
 
 -   [Semi-Markov MSM with interval censored transition times (Xavier Piulachs)](04_Recerca_Viva/Semi-Markov_MSM_with_interval-censored_transition_times_Xavier_Piulachs.pdf)
 
-Sessió 5: **Recerca Viva 2**
+Sessió 5: **Activitat lúdica**
+
+Sessió 6: **Recerca Viva 2**
 
 -   [Treballant amb mosques robots i humans (Conxita Arenas)](06/Recerca_viva/Treballant%20amb%20mosques_robots_humans_Conxita.pdf)
--   [Revisiting k means (Ferran Reverter)](06/Recerca_viva/revisiting_k_means_Ferran_Reverter.pdf)
+-   [Revisiting the K-means algorithm (Ferran Reverter)](06/Recerca_viva/revisiting_k_means_Ferran_Reverter.pdf)
 
-Sessió 6: **Taller 2**
+Sessió 7: **Taller 2**
 
 -   [Variable Selection (Cristian Tebé)](07_Taller_Variable_Selection/CapsBarrets%20v31.html)
 
-Sessió 7: **Seminari Convidat**
+Sessió 8: **GRBIO Divulga**
+
+Sessió 9: **Seminari Convidat**
 
 -   [Multidimensional Scaling for large datasets (Cristian Pachón-García)](09_seminari_convidat_MDS/MDS_Cristian_Pachon_Garcia.pdf)
 
