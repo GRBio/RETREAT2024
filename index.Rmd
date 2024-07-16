@@ -55,8 +55,8 @@ Sessió 5: **Activitat lúdica**
 
 Sessió 6: **Recerca Viva 2**
 
--   [Treballant amb mosques robots i humans (Conxita Arenas)](06/Recerca_viva/Treballant%20amb%20mosques_robots_humans_Conxita.pdf)
--   [Revisiting the K-means algorithm (Ferran Reverter)](06/Recerca_viva/revisiting_k_means_Ferran_Reverter.pdf)
+-   [Treballant amb mosques robots i humans (Conxita Arenas)](06_Recerca_viva/Treballant%20amb%20mosques_robots_humans_Conxita.pdf)
+-   [Revisiting the K-means algorithm (Ferran Reverter)](06_Recerca_viva/revisiting_k_means_Ferran_Reverter.pdf)
 
 Sessió 7: **Taller 2**
 
