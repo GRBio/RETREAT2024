@@ -15,7 +15,8 @@ The folders with the different presentations of the sessions can be found here:
 Sessió 1: **Kick-off**
 
 -   [Retreat Presentation (Lupe Gómez)](01_Kick_off/RETREAT_PRESENTATION_Lupe_Gomez.pdf)
--   [Producció científica (Klaus Langohr)](01_Kick_off/ProdCientif_UPC_Klaus_Langohr.pdf)
+-   [Producció científica UPC (Klaus Langohr)](01_Kick_off/ProdCientif_UPC_Klaus_Langohr.pdf)
+-   [Producció científica UB (Alex Sánchez)](01_Kick_ProdCientif_UB_Alex_Sanchez.pdf.pdf)
 -   [GRBIO Divulga (Conxita Arenas)](01_Kick_off/GRBIO_Divulga_Conxita_Arenas.pdf)
 -   [Seminaris (Ferran Reverter)](01_Kick_off/Seminaris_Ferran_Reverter.pdf)
 -   [Twitter i News (Daniel Fernández)](01_Kick_off/TwittterNews24_Dani_Fernandez.pdf)
